@@ -10,6 +10,7 @@ let checkPrime = function(num){
 }
 console.log(checkPrime(8));
 
+// This is for testing
 let evenOdd = function(num){
     for (let  i = 1;i<=num;i++){
         if(i%2==0){
